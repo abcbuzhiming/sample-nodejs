@@ -1,3 +1,2 @@
-# demo_nodejs
-
-试验型的nodejs相关项目
+# sample-nodejs
+nodejs用于前端以外领域的案例
